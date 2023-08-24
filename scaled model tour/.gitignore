@@ -75,3 +75,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Rr]esources/
 /[Aa]ssets/*.zip
 /[Aa]ssets/*.zip.meta
+
+#
+/[Aa]ssets/Scenes/Final_lowpolyFBX.fbx
