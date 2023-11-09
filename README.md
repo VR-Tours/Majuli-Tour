@@ -2,6 +2,8 @@
 
 ### You can also check out this video to see the functionalities.
 
+Project Tour - https://drive.google.com/file/d/1RsOAtDP3CnXXz5Zzj4YcxJdpWKUCgrMg/view?usp=sharing
+
 https://drive.google.com/file/d/1BT3aGDATfgXvMUUgXuwO2i9DxDT8gDX9/view?usp=share_link
 
 https://drive.google.com/file/d/1blmMxEe0IxUUDFdaCLlhQQy12KJwEEKV/view?usp=share_link
